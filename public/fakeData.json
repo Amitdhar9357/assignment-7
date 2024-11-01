@@ -1,0 +1,93 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/mJLkm1n/virat-kohli.jpg" ,
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "batsman_type": "Top-order",
+    "price": 2500000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/DfcMKSc/kane-williamson.jpg" ,
+    "player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "batsman_type": "Top-order",
+    "price": 2000000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/yNDM33x/ben-stokes.jpg" ,
+    "player_name": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "batsman_type": "Middle-order",
+    "bowler_type": "Fast-medium",
+    "price": 2100000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/Jq9L2Hw/shakib-al-hasan.jpg" ,
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "batsman_type": "Middle-order",
+    "bowler_type": "Left-arm orthodox spin",
+    "price": 1500000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/VtWpS2d/jos-buttler.jpg" ,
+    "player_name": "Jos Buttler",
+    "country": "England",
+    "type": "Wicketkeeper-Batsman",
+    "batsman_type": "Top-order",
+    "price": 1900000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/jg4zxZr/warner.jpg" ,
+    "player_name": "David Warner",
+    "country": "Australia",
+    "type": "Batsman",
+    "batsman_type": "Opener",
+    "price": 2300000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/n0yYQnT/jasprit-bumrah.jpg" ,
+    "player_name": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "bowler_type": "Fast",
+    "price": 1800000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/Prs03Mw/patrik-cummins.jpg" ,
+    "player_name": "Pat Cummins",
+    "country": "Australia",
+    "type": "Bowler",
+    "bowler_type": "Fast",
+    "price": 2400000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/tx2h8Tk/trent-boult.jpg" ,
+    "player_name": "Trent Boult",
+    "country": "New Zealand",
+    "type": "Bowler",
+    "bowler_type": "Left-arm fast-medium",
+    "price": 1700000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/fpXLmX0/rashid-khan.jpg" ,
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "bowler_type": "Leg-spin",
+    "price": 1600000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/3cfhcvC/kkr.jpg" ,
+    "player_name": "Andre Russell",
+    "country": "West Indies",
+    "type": "All-rounder",
+    "batsman_type": "Middle-order",
+    "bowler_type": "Fast-medium",
+    "price": 2300000
+  }
+]

@@ -1,0 +1,11 @@
+.btn{
+  border: 2px solid gray;
+  border-radius: 8px;
+  padding: 10px 25px;
+  
+}
+
+.active{
+  background-color: #E7FE29;
+  color: black;
+}
