@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import Player from "../player/Player";
+import PropTypes from "prop-types";
 
-const Players = () => {
+const Players = ({handelSelectedPlayer}) => {
 
   const [players, setPlayers] = useState([]);
 
@@ -18,12 +19,16 @@ const Players = () => {
 
       <div className="grid gap-4 lg:grid-cols-3 md: grid-cols-2 ">
         {
-          players.map(player => <Player key={player.id} player={player}></Player>)
+          players.map(player => <Player key={player.id} player={player} handelSelectedPlayer={handelSelectedPlayer}></Player>)
 
         }
       </div>
     </div>
   );
 };
+
+Players.propTypes ={
+  handelSelectedPlayer: PropTypes.func
+}
 
 export default Players;
